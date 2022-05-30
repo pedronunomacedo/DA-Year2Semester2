@@ -1,3 +1,6 @@
 [submodule "1st_Project/DA_T1_G103"]
 	path = 1st_Project/DA_T1_G103
 	url = https://github.com/gonzallito/DA_T1_G103.git
+[submodule "project2_DA"]
+	path = project2_DA
+	url = git@github.com:malu1608/project2_DA.git
