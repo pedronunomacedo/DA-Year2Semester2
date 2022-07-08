@@ -1,7 +1,0 @@
-# ninja log v5
-0	978	1654556025520638382	CMakeFiles/project2_DA.dir/main.cpp.o	be97c4a227c4981b
-1	1051	1654556025595261047	CMakeFiles/project2_DA.dir/Classes/graph.cpp.o	8cb984a3f1bf189e
-1	1108	1654556025652221490	CMakeFiles/project2_DA.dir/Classes/Scenario1.cpp.o	6f9acbd7f3fa2845
-1	1156	1654556025699653263	CMakeFiles/project2_DA.dir/Classes/Scenario2.cpp.o	382ddd8405081923
-1	1208	1654556025752129944	CMakeFiles/project2_DA.dir/Classes/menu.cpp.o	4e9ac2edb2b5e468
-1208	1272	1654556025818624516	project2_DA	66a5741f8850dca3

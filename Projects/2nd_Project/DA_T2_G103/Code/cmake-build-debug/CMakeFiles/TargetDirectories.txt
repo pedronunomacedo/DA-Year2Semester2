@@ -1,3 +1,0 @@
-/Users/pedromacedo/Desktop/University/2nd Year/2nd Semester/DA-Year2Semester2/DA_T2_G103/Code/cmake-build-debug/CMakeFiles/project2_DA.dir
-/Users/pedromacedo/Desktop/University/2nd Year/2nd Semester/DA-Year2Semester2/DA_T2_G103/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/pedromacedo/Desktop/University/2nd Year/2nd Semester/DA-Year2Semester2/DA_T2_G103/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
