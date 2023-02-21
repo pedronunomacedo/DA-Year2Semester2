@@ -7,3 +7,9 @@
 [submodule "Projects"]
 	path = Projects
 	url = git@github.com:pedronunomacedo/DA-Projects.git
+[submodule "Projects/1st_project"]
+	path = Projects/1st_project
+	url = git@github.com:gonzallito/DA_T1_G103.git
+[submodule "Projects/project2_DA"]
+	path = Projects/project2_DA
+	url = git@github.com:pedronunomacedo/project2_DA.git
