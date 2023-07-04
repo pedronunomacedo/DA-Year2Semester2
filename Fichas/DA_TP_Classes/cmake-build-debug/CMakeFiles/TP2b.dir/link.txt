@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/TP2b.dir/main.cpp.o CMakeFiles/TP2b.dir/TP2b/ex1.cpp.o CMakeFiles/TP2b.dir/TP2b/ex2.cpp.o -o TP2b  lib/libgtest_maind.a lib/libgmock_maind.a lib/libgmockd.a lib/libgtestd.a -lpthread 
